@@ -1,0 +1,3 @@
+*.pyc
+/Server/serverVENV
+/Client1/clientVENV
